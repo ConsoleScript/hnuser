@@ -13,7 +13,9 @@ How to Use?
 
 -Open chrome and type: chrome://extensions
 
--Select LOAD UNPACKED.
+-Select the folder you extracted.
+
+-Select LOAD UNPACKED and it will run on news.ycombinator.com when you hover on a user after 0.5 second. 
 
 
 How to change the delay?
